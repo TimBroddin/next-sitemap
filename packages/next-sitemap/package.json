@@ -59,7 +59,6 @@
     "minimist": "^1.2.8"
   },
   "peerDependencies": {
-    "next": "*"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
